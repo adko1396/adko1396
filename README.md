@@ -6,7 +6,8 @@
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-90%25-aliceblue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-50%25-yellow)
 ![PHP](https://img.shields.io/badge/PHP-50%25-darkblue)
-
+![Bootstrap](https://img.shields.io/badge/Bootstrap-50%25-purple)
+ 
 <!--
 **adko1396/adko1396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
