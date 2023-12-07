@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adko1396&c=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=نام-کاربری&langs_count=1&layout=compact&hide=html,css,javascript&card_width=495&card_height=195&theme=dark&custom_title=Most%20Used%20Languages&exclude_repo=repo1,repo2,repo3)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
