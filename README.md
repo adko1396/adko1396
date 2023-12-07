@@ -1,5 +1,8 @@
 ### Hi there 👋
-![a](https://github.com/images/mona-whisper.gif)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=نام-کاربری&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
