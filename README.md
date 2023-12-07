@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Python](https://img.shields.io/badge/Python-90%25-brightgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow)
+![Java](https://img.shields.io/badge/Java-70%25-orange)
 
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adko1396&langs_count=5&theme=radical)
 
