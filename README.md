@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-- **JavaScript:** 50%
-- **Python:** 30%
-- **HTML/CSS:** 40%
-- **Java:** 20%
+ **JavaScript:** 50%
+ **Python:** 30%
+**HTML/CSS:** 40%
+**Java:** 20%
 
 -->
