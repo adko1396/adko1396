@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+- **JavaScript:** 50%
+- **Python:** 30%
+- **HTML/CSS:** 40%
+- **Java:** 20%
+
 -->
