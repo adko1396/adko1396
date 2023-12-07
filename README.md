@@ -1,6 +1,7 @@
 ### Hi 👋
 ![C#](https://img.shields.io/badge/C%23-50%25-blue)
 ![SQL](https://img.shields.io/badge/SQL-90%25-pink)
+![Python](https://img.shields.io/badge/Python-50%25-yellow)
 ![Java](https://img.shields.io/badge/Java-50%25-orange)
 <!--
 **adko1396/adko1396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
