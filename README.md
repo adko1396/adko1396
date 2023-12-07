@@ -3,7 +3,7 @@
 ![SQL](https://img.shields.io/badge/SQL-90%25-pink)
 ![Python](https://img.shields.io/badge/Python-50%25-gold)
 ![Java](https://img.shields.io/badge/Java-50%25-orange)
-![HTML/CSS](https://img.shields.io/badge/HTML/CSS-90%25-darkcyan)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-90%25-aliceblue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-50%25-yellow)
 ![PHP](https://img.shields.io/badge/PHP-50%25-darkblue)
 
