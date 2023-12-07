@@ -1,7 +1,10 @@
 ### Hi there 👋
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![Java](https://img.shields.io/badge/Java-Beginner-green)
+
+
+![Python](https://img.shields.io/badge/Python-90%25-brightgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow)
+![Java](https://img.shields.io/badge/Java-70%25-orange)
+
 
 <!--
 **adko1396/adko1396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
