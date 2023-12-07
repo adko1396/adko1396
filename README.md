@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+**JavaScript:** 50%
+**Python:** 30%
+**HTML/CSS:** 40%
+**Java:** 20%
 <!--
 **adko1396/adko1396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
- **JavaScript:** 50%
- **Python:** 30%
-**HTML/CSS:** 40%
-**Java:** 20%
+
 
 -->
