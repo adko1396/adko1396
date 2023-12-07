@@ -1,7 +1,7 @@
 ### Hi 👋
 ![C#](https://img.shields.io/badge/C%23-50%25-blue)
 ![SQL](https://img.shields.io/badge/SQL-90%25-pink)
-![Python](https://img.shields.io/badge/Python-50%25-white)
+![Python](https://img.shields.io/badge/Python-50%25-gold)
 ![Java](https://img.shields.io/badge/Java-50%25-orange)
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-90%25-darkcyan)
 ![JavaScript](https://img.shields.io/badge/JavaScript-50%25-yellow)
