@@ -1,5 +1,6 @@
 ### Hi there 👋
-![skills](https://img.shields.io/badge/skills-70%25|JavaScript-yellow)
+![a](https://github.com/images/mona-whisper.gif)
+
 
 
 
