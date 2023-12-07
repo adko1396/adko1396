@@ -1,14 +1,5 @@
-### Hi there 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adko1396&langs_count=1&layout=compact&hide=html,css,javascript&card_width=495&card_height=195&theme=dark&custom_title=Most%20Used%20Languages&exclude_repo=repo1,repo2,repo3)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-
+### Hi 👋
+![Java](https://img.shields.io/badge/Java-50%25-orange)
 <!--
 **adko1396/adko1396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
